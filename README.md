@@ -1,2 +1,1 @@
-# javasscriptodev
-ilk ödevim
+![Öngösterim](index.html)
