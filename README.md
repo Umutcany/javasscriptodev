@@ -1,0 +1,2 @@
+# javasscriptodev
+ilk ödevim
